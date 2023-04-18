@@ -1,0 +1,18 @@
+body {
+    font-family:'Gill Sans', 'Gill Sans MT', 'Calibri';
+    font-size: 16px;
+    color:seagreen;
+    margin: 20px;
+    background-color: cornsilk;
+}
+li {
+    font-size: 14px;
+    font-style: normal;
+}
+a {
+color:saddlebrown;
+}
+.bold {
+    font-weight:bold;
+    font-style:normal'
+}
