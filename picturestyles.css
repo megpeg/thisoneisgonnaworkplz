@@ -1,0 +1,18 @@
+.common{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri';
+}
+.header{
+    height: 100px;
+    background-color: black;
+    color: azure;
+    line-height: 100px;
+}
+.mainbody{
+    background-color: darkgray;
+}
+.footer{
+    background-color: bisque;
+    color: darkgreen;
+    height: 25px
+}
